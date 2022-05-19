@@ -4,5 +4,7 @@ yellow
 green
 blue
 purple
+black
+white
 actual unicorn
 These are the colors of the rainbow.
