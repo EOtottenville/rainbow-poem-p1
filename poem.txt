@@ -4,5 +4,4 @@ yellow
 green
 blue
 purple
-unicorn
-These are the colors of the rainbow
+These are the colors of the rainbow.
